@@ -27,22 +27,14 @@ Menggunakan Bootstrap 5 untuk tampilan yang rapi dan responsif.
 
 TA-PW-4/
 
-│── index.php        → Menampilkan daftar kontak
 
 │── login.php        → Halaman login sederhana
 
-│── tambah.php       → Form menambahkan kontak baru
+│── add.php       → Form menambahkan kontak baru
 
 │── edit.php         → Form mengedit kontak
 
-│── hapus.php        → Menghapus kontak
-
-│── logout.php       → Logout session
-
-│── db.php           → Script helper database / session (opsional)
-
-│── assets/
-│    └── css/        → File CSS tambahan
+│── delete.php        → Menghapus kontak
 
 │── README.md        → Dokumentasi proyek
 
@@ -66,4 +58,5 @@ http://localhost/TA-PW-4/
 
 👤 Kontributor
 Muhammad Daffa Aufa Alwan — Developer
+
 Universitas Lampung – Teknik Elektro (Prodi Teknik Informatika)
